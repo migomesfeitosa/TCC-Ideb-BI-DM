@@ -1,0 +1,8 @@
+Nesse site temos todas as bases com indicadores educacionais reunidas num só lugar. Pode facilitar a busca por esses dados.
+
+https://jeduca.org.br/dado-educacional/inep
+
+No link a seguir temos um servidor online com dados até 2019 (19/03/2024)
+
+https://www.gov.br/fnde/pt-br/assuntos/sistemas/siope/arquivos-dados-analiticos
+https://www.gov.br/fnde/pt-br/assuntos/sistemas/siope
